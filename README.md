@@ -1,4 +1,4 @@
-# R00tz27 badge hack
+# R00tz27 Badge Hack
 This is my hack of the badge from the r00tz village at defcon 27, which replaces the party mode with a music player. More songs can be added to src/songs.py in rttl format [examples](http://www.picaxe.com/RTTTL-Ringtones-for-Tune-Command/).
 
 
