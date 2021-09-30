@@ -9,5 +9,5 @@ To install this hack, first get the original code from [here](https://github.com
 Using this hack is simple, the _party mode_ button (top right) will now enter _song selection mode_ when pressed. In that mode, use the left two buttons to scroll through available songs (some included) and the bottom right to play the selected song. The top right button will exit _song selection mode_ and the rest of the badge is untouched.
 
 ## Notes
-* Currently, there is no feedback for the selected song other than playing it (hopefully changing soon)
-* If buttons are pressed too quickly, they may be registered more than expected
+* Currently, there is no feedback indicating the selected song
+* If buttons are pressed too quickly, they may not be registered
